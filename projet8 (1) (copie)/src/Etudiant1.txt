@@ -1,0 +1,95 @@
+      1 1  1990 
+      1 1  1990 
+  jh    1 1  1990 
+  jh    1 1  1990 
+ons hamdi jhgf bvcn 2ème année 23ans 29 6  1998 
+ons hamdi jhgf bvcn 2ème année 23ans 29 6  1998 
+emma  jhgf    1 1  1990 
+  123    1 1  1990 
+sno      1 1  1990 
+ons  jhg    1 1  1990 
+bro  147    1 1  1990 
+cnooo      1 1  1990 
+cd  85    1 1  1990 
+sno      1 1  1990 
+sno      1 1  1990 
+      1 1  1990 
+ons  1234m    1 1  1990 
+bro  123    1 1  1990 
+lara  123    1 1  1990 
+cv      1 1  1990 
+vo  12m    1 1  1990 
+k  k    1 1  1990 
+foulen  12    1 1  1990 
+mm  mm    1 1  1990 
+lm  12    1 1  1990 
+mlk  12    1 1  1990 
+bra  12    1 1  1990 
+lo  12    1 1  1990 
+uu  12    1 1  1990 
+      1 1  1990 
+      1 1  1990 
+      0 0  1 1 1990  
+      0 2  1 1 1990  
+nom:ab prenom: cin:5 mdp: niveau: age: sexe:0 education:1  jour:1 mois: 1 annee:1990  
+nom: prenom: cin: mdp: niveau: age: sexe:0 education:1  jour:1 mois: 1 annee:1990  
+nom: prenom: cin: mdp: niveau: age: sexe:0 education:2  jour:1 mois: 1 annee:1990  
+nom: prenom: cin: mdp: niveau: age: sexe:0 education:1  jour:1 mois: 1 annee:1990  
+nom: prenom: cin: mdp: niveau: age: sexe:0 education:1  jour:1 mois: 1 annee:1990  
+nom: prenom: cin: mdp: niveau: age: sexe:0 education:0  jour:1 mois: 1 annee:1990  
+nom: prenom: cin: mdp: niveau: age: sexe:0 education:0  jour:1 mois: 1 annee:1990  
+nom:ons prenom: cin: mdp: niveau: age: sexe:0 education:1  jour:3 mois: 6 annee:2016  
+nom:mo prenom: cin: mdp: niveau: age: sexe:0 education:0  jour:1 mois: 1 annee:1990  
+nom:mo prenom: cin: mdp: niveau: age: sexe:0 education:0  jour:1 mois: 1 annee:1990  
+nom: prenom: cin: mdp: niveau: age: sexe:0 education:0  jour:1 mois: 1 annee:1990  
+nom:1 prenom: cin: mdp: niveau: age: sexe:0 education:0  jour:1 mois: 1 annee:1990  
+nom: prenom: cin: mdp: niveau: age: sexe:0 education:0  jour:1 mois: 1 annee:1990  
+nom: prenom: cin: mdp: niveau: age: sexe:0 education:0  jour:1 mois: 1 annee:1990  
+nom:ll prenom: cin: mdp: niveau: age: sexe:0 education:0  jour:1 mois: 1 annee:1990  
+nom:nn prenom: cin: mdp: niveau: age: sexe:0 education:0  jour:1 mois: 1 annee:1990  
+nom:nb prenom: cin: mdp: niveau: age: sexe:0 education:0  jour:1 mois: 1 annee:1990 bloc: 1 
+nom: prenom: cin: mdp: niveau: age: sexe:0 education:0  jour:5 mois: 1 annee:2020 bloc: 2 
+nom:nb prenom: cin: mdp: niveau: age: sexe:0 education:0  jour:1 mois: 1 annee:1990 bloc: 2 
+nom: prenom: cin: mdp: niveau: age: sexe:0 education:0  jour:1 mois: 1 annee:1990 bloc: 2 
+nom: prenom: cin:kj mdp: niveau: age: sexe:0 education:0  jour:1 mois: 1 annee:1990 bloc: 2 
+nom: prenom: cin:kj mdp: niveau: age: sexe:0 education:0  jour:1 mois: 1 annee:1990 bloc: 2 
+nom: prenom: cin: mdp: niveau: age: sexe:0 education:0  jour:1 mois: 1 annee:1990 bloc: 1 
+nom: prenom: cin: mdp: niveau: age: sexe:��� education:0  jour:1 mois: 1 annee:1990 bloc: 1 
+nom: prenom: cin: mdp: niveau: age: sexe:femme education:2  jour:1 mois: 1 annee:1990 bloc: 2 
+nom: prenom: cin: mdp: niveau: age: sexe:femme education:2  jour:1 mois: 1 annee:1990 bloc: 2 
+nom: prenom: cin: mdp: niveau: age: sexe:femme education:business  jour:1 mois: 1 annee:1990 bloc: 2 
+nom: prenom: cin: mdp: niveau: age: sexe:femme education:business  jour:1 mois: 1 annee:1990 bloc: 2 
+nom: prenom: cin: mdp: niveau: age:54 sexe:femme education:business  jour:1 mois: 1 annee:1990 bloc: 2 
+nom: prenom: cin: mdp: niveau: age: sexe:homme education:business  jour:1 mois: 1 annee:1990 bloc: 2 
+nom: prenom: cin: mdp: niveau: age: sexe:homme education:prepa  jour:1 mois: 1 annee:1990 bloc: 2 
+nom: prenom: cin: mdp: niveau: age: sexe:homme education:prepa  jour:1 mois: 1 annee:1990 bloc: 2 
+nom: prenom: cin: mdp: niveau: age:ds sexe:homme education:prepa  jour:1 mois: 1 annee:1990 bloc: 1 
+nom: prenom: cin: mdp: niveau: age: sexe:homme education:prepa  jour:1 mois: 1 annee:1990 bloc: 2 
+nom: prenom: cin: mdp: niveau: age: sexe:homme education:prepa  jour:1 mois: 1 annee:1990 bloc: 1 
+nom: prenom: cin: mdp: niveau: age: sexe:homme education:prepa  jour:1 mois: 1 annee:1990 bloc: 2 
+nom:vb prenom: cin: mdp: niveau: age: sexe:homme education:prepa  jour:1 mois: 1 annee:1990 bloc: 2 
+nom: prenom: cin: mdp: niveau: age: sexe:homme education:prepa  jour:1 mois: 1 annee:1990 bloc: 2 
+nom:ds prenom: cin: mdp: niveau:1ère année age: sexe:homme education:prepa  jour:1 mois: 1 annee:1990 bloc: 2 
+nom: prenom: cin: mdp: niveau: age:fd sexe:homme education:prepa  jour:1 mois: 1 annee:1990 bloc: 2 
+nom: prenom: cin: mdp: niveau:1ere anee age: sexe:homme education:prepa  jour:1 mois: 1 annee:1990 bloc: 2 
+nom: prenom: cin: mdp: niveau:1ere annee age: sexe:homme education:prepa  jour:1 mois: 1 annee:1990 bloc: 2 
+nom: prenom: cin: mdp: niveau: age: sexe:homme education:prepa  jour:1 mois: 1 annee:1990 bloc: 2 
+nom:do prenom: cin: mdp: niveau: age: sexe:homme education:prepa  jour:1 mois: 1 annee:1990 bloc: 2 
+nom:c prenom: cin: mdp: niveau: age: sexe:homme education:prepa  jour:1 mois: 1 annee:1990 bloc: 2 
+nom: prenom: cin: mdp: niveau: age: sexe:homme education:prepa  jour:1 mois: 1 annee:1990 bloc: 2 
+nom: prenom: cin: mdp: niveau: age: sexe:homme education:prepa  jour:1 mois: 1 annee:1990 bloc: 2 
+nom: prenom: cin: mdp: niveau: age: sexe:homme education:prepa  jour:1 mois: 1 annee:1990 bloc: 2 
+nom: prenom: cin: mdp: niveau: age: sexe:0 education:prepa  jour:1 mois: 1 annee:1990 bloc: 2 
+nom:azer prenom: cin: mdp: niveau: age: sexe:0 education:prepa  jour:1 mois: 1 annee:1990 bloc: 2 
+nom:zer prenom: cin: mdp: niveau: age: sexe:0 education:prepa  jour:1 mois: 1 annee:1990 bloc: 2 
+nom: prenom: cin: mdp: niveau: age: sexe:0 education:prepa  jour:1 mois: 1 annee:1990 bloc: 1 
+nom:jh prenom: cin: mdp: niveau: age: sexe:0 education:prepa  jour:1 mois: 1 annee:1990 bloc: 2 
+nom: prenom: cin: mdp: niveau: age: sexe:0 education:prepa  jour:1 mois: 1 annee:1990 bloc: 2 
+nom: prenom: cin: mdp: niveau: age: sexe:0 education:prepa  jour:1 mois: 1 annee:1990 bloc: 2 
+nom:ons prenom: cin: mdp: niveau: age: sexe:0 education:prepa  jour:1 mois: 1 annee:1990 bloc: 2 
+nom:ons prenom: cin: mdp: niveau: age: sexe:0 education:prepa  jour:1 mois: 1 annee:1990 bloc: 2 
+nom:ons prenom: cin: mdp: niveau: age: sexe:0 education:prepa  jour:1 mois: 1 annee:1990 bloc: 1 
+nom:kj prenom: cin: mdp: niveau: age: sexe:0 education:prepa  jour:1 mois: 1 annee:1990 bloc: 2 
+nom: prenom:f cin: mdp: niveau: age: sexe:0 education:prepa  jour:1 mois: 1 annee:1990 bloc: 1 
+nom: prenom:kj cin: mdp: niveau: age: sexe:0 education:prepa  jour:1 mois: 1 annee:1990 bloc: 2 
+nom: prenom:ml cin: mdp: niveau: age: sexe:0 education:prepa  jour:1 mois: 1 annee:1990 bloc: 1 
